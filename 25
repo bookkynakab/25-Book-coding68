@@ -1,0 +1,18 @@
+print(" เลือกความสุกของไข่ ")
+print("1. ไข่ลวก")
+print("2. ไข่ยางมะตูม")
+print("3. ไข่สุก ")
+
+choice = input("\nเลือกหมายเลข (1-3): ")
+
+if choice == '1':
+    minutes = 2
+    print("เวลาที่ใช้คือ",minutes)
+elif choice == '2':
+    minutes = 7
+    print("เวลาที่ใช้คือ",minutes)
+elif choice == '3':
+    minutes = 10
+    print("เวลาที่ใช้คือ",minutes)
+else:
+    print("เลือกผิด กรุณาลองใหม่")
