@@ -24,3 +24,4 @@ while guess != secret_number:
         print("เครดิต นายณัฏฐวี นาคมอญ")
     else:
         print("ไม่เป็นไร ลองใหม่นะ")
+
