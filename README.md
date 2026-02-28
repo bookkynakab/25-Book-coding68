@@ -4,8 +4,7 @@
 
 1.ที่มา 
 
-ปัญหาที่พบ<img width="848" height="939" alt="fini" src="https://github.com/user-attachments/assets/eee4a7b5-b92d-4037-a70e-0e027bbdced7" />
-
+ปัญหาที่พบ
 
 ต้มไข่ได้ไม่ตรงกับที่ต้องการ
 
@@ -20,7 +19,8 @@
 3.เครื่องมือที่ใช้
 Language Python
 
-4.ตัวอย่างการใช้งาน
+4.ตัวอย่างการใช้งาน<img width="848" height="939" alt="fini" src="https://github.com/user-attachments/assets/a49c933e-ca38-412f-81e2-f120bab0e149" />
+
 
 5.วิธีการใช้งาน
 
