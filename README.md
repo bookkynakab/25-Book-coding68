@@ -20,7 +20,9 @@
 Language Python
 
 4.ตัวอย่างการใช้งาน
-<img width="200" height="300" alt="fini" src="https://github.com/user-attachments/assets/a49c933e-ca38-412f-81e2-f120bab0e149" />
+
+
+<img width="100" height="150" alt="fini" src="https://github.com/user-attachments/assets/a49c933e-ca38-412f-81e2-f120bab0e149" />
 
 
 5.วิธีการใช้งาน
